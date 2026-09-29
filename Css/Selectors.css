@@ -1,0 +1,12 @@
+div p{
+    color:brown;
+}
+body>h1{
+    color:blue;
+}
+div~p{
+    color:green;
+}/*
+h1{
+    color:chocolate;
+}*/
